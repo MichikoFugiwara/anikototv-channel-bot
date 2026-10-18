@@ -1,3 +1,5 @@
+
 python-telegram-bot[job-queue]>=21.0,<23.0
 motor>=3.6,<4.0
 pymongo>=4.9,<5.0
+certifi
